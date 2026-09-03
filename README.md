@@ -79,3 +79,19 @@ and cross-checks the primary sources:
 Version numbers in the sections are pinned "as of 2026-09-03" and should be
 re-confirmed against the sources above before a fresh build; Ray and vLLM move
 especially fast.
+
+## License
+
+This guide is licensed under the Creative Commons Attribution 4.0 International
+License (CC BY 4.0). You are free to copy, modify, and redistribute it, in whole
+or in part, for any purpose including commercial, provided you give appropriate
+attribution. See [LICENSE](LICENSE) for the full text.
+
+Attribution example:
+
+> "DGX Spark Duo: Two-Node Cluster Guide" by Ken Durazzo,
+> https://github.com/Kdurazzo/dual-dgx-spark-config-guide, licensed under CC BY 4.0.
+
+The guide is provided "as is", without warranty of any kind; the author assumes
+no liability for errors or omissions, or for any consequences of following it.
+
